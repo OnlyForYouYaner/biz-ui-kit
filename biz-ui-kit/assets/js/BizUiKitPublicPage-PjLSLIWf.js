@@ -1,0 +1,1 @@
+import{S as t}from"./index-CH7Kz9lc.js";import{d as e,_ as i,a4 as o,k as a}from"./vue-vendor-DzRN-WBV.js";import"./vendor-Dm40bYUz.js";import"./heavy-vendor-B7KcE6Z7.js";import"./antd-DxiiptXU.js";const r={class:"biz-ui-kit-public-shell"},u=e({__name:"BizUiKitPublicPage",setup(s){return(c,m)=>(o(),i("div",r,[a(t)]))}});export{u as default};
