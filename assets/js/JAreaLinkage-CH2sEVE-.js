@@ -1,0 +1,1 @@
+import{_ as o,cX as n,f as s,e as r,o as t,Y as c}from"./index-BS2r9UfD.js";function p(e,l,d,u,f,i){const a=s("Cascader");return t(),r(a,c(e.attrs,{value:e.cascaderValue,options:e.getOptions,onChange:e.handleChange}),null,16,["value","options","onChange"])}const m=o(n,[["render",p]]);export{m as default};

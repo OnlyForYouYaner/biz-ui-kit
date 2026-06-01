@@ -1,0 +1,1 @@
+import{b as e,h as t,o as a,j as s,dS as i}from"./index-BS2r9UfD.js";const o={class:"biz-ui-kit-public-shell"},l=e({__name:"BizUiKitPublicPage",setup(c){return(n,r)=>(a(),t("div",o,[s(i)]))}});export{l as default};
