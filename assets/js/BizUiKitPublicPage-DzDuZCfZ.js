@@ -1,0 +1,1 @@
+import{bV as e}from"./index-DaIhma_s.js";import{d as t,ak as a,aq as i,k as o}from"./vue-vendor-7blWcaTI.js";import"./antd-vue-vendor-0ZyEYjfP.js";import"./vxe-table-vendor-Qp4K3j41.js";const s={class:"biz-ui-kit-public-shell"},d=t({__name:"BizUiKitPublicPage",setup(r){return(c,m)=>(i(),a("div",s,[o(e)]))}});export{d as default};
